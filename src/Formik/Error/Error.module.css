@@ -1,0 +1,8 @@
+.FormMessageInvalid{
+    color: red;
+    font-size: 12px;
+}
+.FormMessageValid{
+color: green;
+font-size: 12px;
+}
